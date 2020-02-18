@@ -1,0 +1,18 @@
+{
+  "gitbook": "3.2.3",
+  "root": "./",
+  "structure": {
+    "summary": "SUMMARY.md"
+  },
+  "plugins": ["edit-link", "prism", "ga", "advanced-emoji"],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/youtube-fans/help-doc-in-zhCN/tree/master",
+      "label": "开始纠错"
+    },
+    "ga": {
+      "token": "UA-"
+    }
+  },
+  "language": "zh-hans"
+}

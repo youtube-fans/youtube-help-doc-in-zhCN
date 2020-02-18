@@ -1,0 +1,11 @@
+#### [帮助](https://support.google.com/youtube/?hl=zh-Hans)
+
+* [哪些类型的内容可以用于获利？](https://support.google.com/youtube/answer/2490020?hl=zh-Hans&ref_topic=1115890)
+* [申请人工审核被标记为“不适合大多数广告客户投放广告”的视频](https://support.google.com/youtube/answer/7083671?hl=zh-Hans&ref_topic=1115890)
+* [如何阅读许可以了解您的权利](https://support.google.com/youtube/answer/2490089?hl=zh-Hans&ref_topic=1115890)
+* [YouTube 广告格式](https://support.google.com/youtube/answer/2467968?authuser=0#)
+* [付费产品展示位置与植入式广告](https://support.google.com/youtube/answer/154235?hl=zh-Hans&ref_topic=1115890)
+* [通过符合条件的翻唱歌曲视频获利](https://support.google.com/youtube/answer/3301938?hl=zh-Hans&ref_topic=1115890)
+* [声明单个视频的版权：相关政策和最佳做法](https://support.google.com/youtube/answer/7037712?hl=zh-Hans&ref_topic=1115890)
+* [广告在您用于获利的视频中的显示方式](https://support.google.com/youtube/answer/7438625?hl=zh-Hans&ref_topic=1115890)
+* [创作者工作室获利图标指南](https://support.google.com/youtube/answer/7489378?hl=zh-Hans&ref_topic=1115890)
