@@ -10,6 +10,8 @@ A YouTube influencer is a content creator who has established a large following 
 You may have heard this term thrown around on social media or in conversations with friends, but aren’t quite sure what it really means. Put simply, a YouTube influencer is someone who builds a substantial following on the video platform of YouTube, sets trends, and provides information for others looking to purchase a specific product or service, for example. Some of the most popular YouTube influencers are performing artists, visual artists (including makeup artists), and athletes. Creating videos on YouTube allows them to share their skills and make them easily accessible.
 
 
+>[版权学院](https://www.youtube.com/copyright_school)
+>[版权问题排查](https://support.google.com/youtube/troubleshooter/6401232?hl=zh-Hans&ref_topic=2778546)
 
 > 在线 Gitbook 地址：http://cn.redux.js.org/
 > 英文原版：http://redux.js.org/
